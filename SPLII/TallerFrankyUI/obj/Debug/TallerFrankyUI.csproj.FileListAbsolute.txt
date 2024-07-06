@@ -69,3 +69,15 @@ C:\Users\German PC\Desktop\SPLII\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.
 C:\Users\German PC\Desktop\SPLII\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.CoreCompileInputs.cache
 C:\Users\German PC\Desktop\SPLII\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.exe
 C:\Users\German PC\Desktop\SPLII\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.pdb
+C:\Users\villa\Desktop\Nueva carpeta\SPL2_1C2024\SPLII\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.exe.config
+C:\Users\villa\Desktop\Nueva carpeta\SPL2_1C2024\SPLII\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.exe
+C:\Users\villa\Desktop\Nueva carpeta\SPL2_1C2024\SPLII\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.pdb
+C:\Users\villa\Desktop\Nueva carpeta\SPL2_1C2024\SPLII\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.AssemblyReference.cache
+C:\Users\villa\Desktop\Nueva carpeta\SPL2_1C2024\SPLII\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmPrincipal.resources
+C:\Users\villa\Desktop\Nueva carpeta\SPL2_1C2024\SPLII\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmReparacion.resources
+C:\Users\villa\Desktop\Nueva carpeta\SPL2_1C2024\SPLII\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmBarco.resources
+C:\Users\villa\Desktop\Nueva carpeta\SPL2_1C2024\SPLII\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.Properties.Resources.resources
+C:\Users\villa\Desktop\Nueva carpeta\SPL2_1C2024\SPLII\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.GenerateResource.cache
+C:\Users\villa\Desktop\Nueva carpeta\SPL2_1C2024\SPLII\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.CoreCompileInputs.cache
+C:\Users\villa\Desktop\Nueva carpeta\SPL2_1C2024\SPLII\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.exe
+C:\Users\villa\Desktop\Nueva carpeta\SPL2_1C2024\SPLII\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.pdb
