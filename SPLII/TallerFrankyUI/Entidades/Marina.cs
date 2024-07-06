@@ -10,6 +10,7 @@ namespace Parcial.WindowsForm
     {
         public override int Tripulacion
         {
+            //Hola
             get
             {
                 if (Tripulacion < 0)
